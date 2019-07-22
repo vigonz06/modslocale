@@ -20,115 +20,115 @@ msgstr ""
 
 #: templates/bobassembly.jinja2:2
 msgid "Assembling machine 4"
-msgstr ""
+msgstr "Máquina de ensamblaje 4"
 
 #: templates/bobassembly.jinja2:3
 msgid "Assembling machine 5"
-msgstr ""
+msgstr "Máquina de ensamblaje 5"
 
 #: templates/bobassembly.jinja2:4
 msgid "Assembling machine 6"
-msgstr ""
+msgstr "Máquina de ensamblaje 6"
 
 #: templates/bobassembly.jinja2:6
 msgid "Electronics assembling machine 1"
-msgstr ""
+msgstr "Máquina de ensamblaje electrónico 1"
 
 #: templates/bobassembly.jinja2:7
 msgid "Electronics assembling machine 2"
-msgstr ""
+msgstr "Máquina de ensamblaje electrónico 2"
 
 #: templates/bobassembly.jinja2:8
 msgid "Electronics assembling machine 3"
-msgstr ""
+msgstr "Máquina de ensamblaje electrónico 3"
 
 #: templates/bobassembly.jinja2:10
 msgid "Burner assembling machine"
-msgstr ""
+msgstr "Máquina de ensamblaje a combustible"
 
 #: templates/bobassembly.jinja2:11
 msgid "Steam powered assembling machine"
-msgstr ""
+msgstr "Máquina de ensamblaje a vapor"
 
 #: templates/bobassembly.jinja2:13
 msgid "Oil refinery 2"
-msgstr ""
+msgstr "Refinería de Petroleo 2"
 
 #: templates/bobassembly.jinja2:14
 msgid "Oil refinery 3"
-msgstr ""
+msgstr "Refinería de Petroleo 3"
 
 #: templates/bobassembly.jinja2:15
 msgid "Oil refinery 4"
-msgstr ""
+msgstr "Refinería de Petroleo 4"
 
 #: templates/bobassembly.jinja2:17
 msgid "Chemical plant 2"
-msgstr ""
+msgstr "Planta química 2"
 
 #: templates/bobassembly.jinja2:18
 msgid "Chemical plant 3"
-msgstr ""
+msgstr "Planta química 3"
 
 #: templates/bobassembly.jinja2:19
 msgid "Chemical plant 4"
-msgstr ""
+msgstr "Planta química 4"
 
 #: templates/bobassembly.jinja2:21
 msgid "Electrolyser 2"
-msgstr ""
+msgstr "Electrolizador 2"
 
 #: templates/bobassembly.jinja2:22
 msgid "Electrolyser 3"
-msgstr ""
+msgstr "Electrolizador 3"
 
 #: templates/bobassembly.jinja2:23
 msgid "Electrolyser 4"
-msgstr ""
+msgstr "Electrolizador 4"
 
 #: templates/bobassembly.jinja2:25
 msgid "Electric furnace 2"
-msgstr ""
+msgstr "Horno Eléctrico 2"
 
 #: templates/bobassembly.jinja2:26
 msgid "Electric furnace 3"
-msgstr ""
+msgstr "Horno Eléctrico 3"
 
 #: templates/bobassembly.jinja2:28
 msgid "Electric multi-purpose furnace"
-msgstr ""
+msgstr "Horno para aleaciones Eléctrico"
 
 #: templates/bobassembly.jinja2:29
 msgid "Electric multi-purpose furnace 2"
-msgstr ""
+msgstr "Horno para aleaciones Eléctrico 2"
 
 #: templates/bobassembly.jinja2:31
 msgid "__ENTITY__bob-distillery__ 2"
-msgstr ""
+msgstr "Destilería 2"
 
 #: templates/bobassembly.jinja2:32
 msgid "__ENTITY__bob-distillery__ 3"
-msgstr ""
+msgstr "Destilería 3"
 
 #: templates/bobassembly.jinja2:33
 msgid "__ENTITY__bob-distillery__ 4"
-msgstr ""
+msgstr "Destilería 4"
 
 #: templates/bobassembly.jinja2:34
 msgid "__ENTITY__bob-distillery__ 5"
-msgstr ""
+msgstr "Destilería 5"
 
 #: templates/bobassembly.jinja2:36 templates/bobassembly.jinja2:85
 msgid "Oil powered steel furnace"
-msgstr ""
+msgstr "Horno de acero a petroleo"
 
 #: templates/bobassembly.jinja2:37 templates/bobassembly.jinja2:86
 msgid "Oil powered steel chemical furnace"
-msgstr ""
+msgstr "Horno químico de acero a petroleo"
 
 #: templates/bobassembly.jinja2:38 templates/bobassembly.jinja2:87
 msgid "Oil powered steel metal mixing furnace"
-msgstr ""
+msgstr "Horno de mezcla de acero y metal a petroleo"
 
 #: templates/bobassembly.jinja2:42
 msgid ""
